@@ -1,0 +1,817 @@
+{
+  "A1": {
+    "subject_en": "Your path home starts here",
+    "preheader_en": "Owning your home may be closer than you think. Let us show you the way.",
+    "eyebrow_en": "WELCOME TO WFG",
+    "headline_en": "The door to your own home may be closer than you think",
+    "body_en": [
+      "Welcome, and thank you for reaching out. Owning your own home can be within reach for many families, and we would be honored to walk that road with you.",
+      "At Warens Financial Group, our job is to make the path clear. We explain every step in plain language, answer your questions honestly, and help you understand your options so you always know what comes next.",
+      "There is no pressure and no obligation. Let us start with a friendly call so we can get to know you and what matters most to you. Whenever you are ready, we are here."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Su camino a casa empieza aquí",
+    "preheader_es": "Tener casa propia puede estar más cerca de lo que piensa. Le mostramos cómo.",
+    "eyebrow_es": "BIENVENIDO A WFG",
+    "headline_es": "La puerta de su propia casa puede estar más cerca de lo que piensa",
+    "body_es": [
+      "Bienvenido, y gracias por escribirnos. Tener su propia casa puede estar al alcance de muchas familias, y para nosotros sería un honor acompañarlo en ese camino.",
+      "En Warens Financial Group, nuestro trabajo es dejarle claro el camino. Le explicamos cada paso en palabras sencillas, respondemos sus preguntas con honestidad y le ayudamos a entender sus opciones para que siempre sepa qué sigue.",
+      "No hay presión ni compromiso. Empecemos con una llamada amistosa para conocerlo a usted y lo que más le importa. Cuando esté listo, aquí estamos."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "A2": {
+    "subject_en": "How it works, made simple",
+    "preheader_en": "A calm, step by step look at getting a mortgage with WFG.",
+    "eyebrow_en": "YOUR PATH HOME",
+    "headline_en": "The home loan process, made clear",
+    "body_en": [
+      "Buying a home can feel like a lot, so let us make it simple. The process really comes down to a few clear steps, and you are never walking through them alone.",
+      "First, we talk and get to know your goals. Then we look at your numbers together and help you get pre-approved, which can give you a clearer sense of what you may be able to afford. From there you shop with confidence, we guide you through the offer, and our team handles the loan details all the way to closing day.",
+      "Every family is different, and the amount you need to put down may be smaller than you think. There are no silly questions here, so reach out anytime and we will walk through it with you."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Como funciona, paso a paso",
+    "preheader_es": "Una mirada tranquila, paso a paso, a tu préstamo con WFG.",
+    "eyebrow_es": "TU CAMINO A CASA",
+    "headline_es": "El proceso de tu préstamo, claro y sencillo",
+    "body_es": [
+      "Comprar casa puede parecer mucho, así que vamos a hacerlo simple. El proceso se reduce a unos pocos pasos claros, y nunca los recorres tú solo.",
+      "Primero platicamos y conocemos tus metas. Después revisamos tus números juntos y te ayudamos a obtener una preaprobación, que puede darte una idea más clara de lo que podrías pagar. De ahí buscas casa con confianza, te guiamos en la oferta, y nuestro equipo se encarga de los detalles del préstamo hasta el día del cierre.",
+      "Cada familia es diferente, y el enganche que necesitas puede ser menor de lo que imaginas. Aquí no hay preguntas tontas, así que escríbenos cuando quieras y lo vemos contigo paso a paso."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "A3": {
+    "subject_en": "You may need less down than you think",
+    "preheader_en": "Many buyers qualify with as little as 3 percent down. Let's talk it through.",
+    "eyebrow_en": "THE 20 PERCENT MYTH",
+    "headline_en": "The door may be closer than you think",
+    "body_en": [
+      "Somewhere along the way, many of us learned that buying a home means saving 20 percent for a down payment. For most families that number can feel years away, so they keep waiting.",
+      "The truth is that many buyers may qualify with as little as 3 percent down, and some programs allow zero down for those who are eligible. You could be closer to your own front door than you ever imagined.",
+      "Let us find out together what could work for your situation. A short, no pressure conversation can walk you through the real numbers and the clearest path forward. We are here to help you understand your options, in your language and at your pace."
+    ],
+    "cta_en": "Talk to an advisor",
+    "stat_value": "3%",
+    "stat_label_en": "Many buyers may qualify with as little as this down",
+    "subject_es": "Quizá necesite menos enganche del que cree",
+    "preheader_es": "Muchos compradores podrían calificar con apenas 3 por ciento. Hablemos.",
+    "eyebrow_es": "EL MITO DEL 20 POR CIENTO",
+    "headline_es": "La puerta podría estar más cerca de lo que cree",
+    "body_es": [
+      "En algún momento muchos aprendimos que comprar casa significa ahorrar el 20 por ciento de enganche. Para muchas familias ese número se siente a años de distancia, así que siguen esperando.",
+      "La realidad es que muchos compradores podrían calificar con apenas un 3 por ciento de enganche, y algunos programas permiten cero enganche para quienes son elegibles. Usted podría estar más cerca de su propia puerta de lo que imagina.",
+      "Descubramos juntos qué podría funcionar en su caso. Una conversación corta y sin compromiso le puede mostrar los números reales y el camino más claro. Estamos aquí para ayudarle a entender sus opciones, en su idioma y a su ritmo."
+    ],
+    "cta_es": "Hablar con un asesor",
+    "stat_label_es": "Muchos compradores podrían calificar con apenas esto de enganche"
+  },
+  "A4": {
+    "subject_en": "A loan built around your situation",
+    "preheader_en": "FHA, VA, conventional, first-time buyer, ITIN. Let us help you find your fit.",
+    "eyebrow_en": "YOUR PATH HOME",
+    "headline_en": "The right loan starts with your story",
+    "body_en": [
+      "No two buyers are the same, and your loan should not be either. There are many paths to a home of your own, including FHA, VA, conventional, first-time buyer programs, and ITIN options for borrowers without a Social Security number.",
+      "Some of these may ask for less down payment than you think. The hard part is knowing which one could fit your income, your goals, and where you are today. That is exactly what we are here for.",
+      "Tell us a little about your situation and we can help match you to the program that makes the most sense for you. There is no pressure and no cost to talk. We make the path clear."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Un préstamo pensado para su situación",
+    "preheader_es": "FHA, VA, convencional, primer hogar, ITIN. Le ayudamos a encontrar el adecuado.",
+    "eyebrow_es": "SU CAMINO A CASA",
+    "headline_es": "El préstamo correcto empieza con su historia",
+    "body_es": [
+      "No hay dos compradores iguales, y su préstamo tampoco debería serlo. Existen muchos caminos hacia una casa propia, como FHA, VA, convencional, programas para quienes compran por primera vez y opciones ITIN para personas sin número de Seguro Social.",
+      "Algunos de ellos podrían pedir menos enganche de lo que usted imagina. Lo difícil es saber cuál se ajusta mejor a sus ingresos, a sus metas y al momento en el que se encuentra hoy. Para eso estamos aquí.",
+      "Cuéntenos un poco sobre su situación y le ayudamos a encontrar el programa que más le conviene. No hay presión ni costo por conversar. Hacemos claro el camino."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "A5": {
+    "subject_en": "Still thinking it over?",
+    "preheader_en": "No pressure and no rush. Your door is still open whenever you are ready.",
+    "eyebrow_en": "WHENEVER YOU ARE READY",
+    "headline_en": "The door is still open",
+    "body_en": [
+      "Buying a home is a big step, and the right time looks different for everyone. There is no rush here, and there is no wrong answer.",
+      "Maybe the timing was not right a few months ago. Maybe a few things have shifted since then. Either way, we are still here whenever you want to pick the conversation back up.",
+      "So here is one simple question. Would you like to talk it through, with no pressure and no commitment? If so, we can make the path clear and move at your pace."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Todavía lo está pensando?",
+    "preheader_es": "Sin prisa y sin presión. Su puerta sigue abierta cuando usted lo decida.",
+    "eyebrow_es": "CUANDO USTED ESTÉ LISTO",
+    "headline_es": "La puerta sigue abierta",
+    "body_es": [
+      "Comprar casa es un paso grande, y el momento adecuado es distinto para cada persona. Aquí no hay prisa, y no hay una respuesta equivocada.",
+      "Quizá hace unos meses no era el momento. Quizá algunas cosas han cambiado desde entonces. De cualquier forma, aquí seguimos cuando usted quiera retomar la conversación.",
+      "Así que le hacemos solo una pregunta sencilla. Le gustaría platicarlo, sin presión y sin compromiso? Si es así, hacemos claro el camino y avanzamos a su ritmo."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "A6": {
+    "subject_en": "The smartest first step most buyers skip",
+    "preheader_en": "Getting pre-approved early can give you clarity and real negotiating power.",
+    "eyebrow_en": "START HERE",
+    "headline_en": "Confidence starts before you ever tour a home",
+    "body_en": [
+      "Most people begin their home search by looking at houses. The buyers who feel calm and in control tend to start somewhere else. They get pre-approved first, so they have a clearer sense of what they are working with before they fall in love with a place.",
+      "A pre-approval helps you understand the price range that may fit your budget, and it shows sellers you are serious. In a competitive market, that can give you real negotiating power. It can also mean fewer surprises later, because you have a clearer picture from the very beginning.",
+      "At Warens Financial Group we walk you through it step by step, in plain language and in your language. There is no pressure and no obligation. A pre-approval is not a final commitment to lend. It is simply a smart way to start, and when you are ready, we are here to make the path clear."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "El primer paso mas inteligente que muchos pasan por alto",
+    "preheader_es": "Preaprobarte temprano puede darte claridad y poder al negociar.",
+    "eyebrow_es": "EMPIEZA AQUI",
+    "headline_es": "La confianza empieza antes de ver tu primera casa",
+    "body_es": [
+      "La mayoria empieza la busqueda mirando casas. Las personas que se sienten tranquilas y con el control suelen empezar en otro lugar. Primero se preaprueban, asi tienen una idea mas clara de con que cuentan antes de enamorarse de una casa.",
+      "Una preaprobacion te ayuda a entender el rango de precio que podria ajustarse a tu presupuesto, y le demuestra al vendedor que vas en serio. En un mercado competitivo, eso te puede dar verdadero poder al negociar. Tambien puede significar menos sorpresas mas adelante, porque tienes un panorama mas claro desde el principio.",
+      "En Warens Financial Group te guiamos paso a paso, en lenguaje sencillo y en tu idioma. Sin presion y sin compromiso. Una preaprobacion no es una promesa final de prestamo. Es simplemente una forma inteligente de empezar, y cuando estes listo, aqui estamos para hacer claro el camino."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "A7": {
+    "subject_en": "We are here when you are ready",
+    "preheader_en": "No rush at all. Save our contact and reach out whenever the time feels right.",
+    "eyebrow_en": "A FRIENDLY NOTE",
+    "headline_en": "Your door stays open",
+    "body_en": [
+      "Buying a home is a big step, and the right moment looks different for everyone. There is no rush here, and there is no pressure from us.",
+      "Whenever you are ready, whether that is next month or next year, we would be glad to talk it through and help make the path clear. Many buyers find they may be able to start with less than they expected, and a simple conversation is the easiest way to understand where you stand.",
+      "Save our contact so you have it on hand. When the time feels right, we are just one call away."
+    ],
+    "cta_en": "Save our contact",
+    "subject_es": "Aquí estamos cuando usted esté listo",
+    "preheader_es": "Sin prisa. Guarde nuestro contacto y escríbanos cuando sea el momento.",
+    "eyebrow_es": "UN MENSAJE CERCANO",
+    "headline_es": "Su puerta sigue abierta",
+    "body_es": [
+      "Comprar casa es un paso grande, y el momento correcto se ve diferente para cada persona. Aquí no hay prisa, y de nuestra parte no hay ninguna presión.",
+      "Cuando usted esté listo, ya sea el próximo mes o el próximo año, con gusto lo platicamos y le ayudamos a hacer claro el camino. Muchas familias descubren que quizás pueden empezar con menos de lo que pensaban, y una simple plática es la forma más fácil de saber en dónde se encuentra.",
+      "Guarde nuestro contacto para tenerlo a la mano. Cuando sienta que es el momento, estamos a una sola llamada de distancia."
+    ],
+    "cta_es": "Guardar nuestro contacto"
+  },
+  "B1": {
+    "subject_en": "Not credit-ready yet? You still have options",
+    "preheader_en": "This is common, and we can build a realistic plan together.",
+    "eyebrow_en": "CREDIT, MADE CLEAR",
+    "headline_en": "Not ready yet does not mean not ever",
+    "body_en": [
+      "If your credit is not quite where it needs to be yet, take a breath. This is one of the most common starting points we see, and it is something many people improve over time with a clear plan.",
+      "There is no judgment here. We look at where you are today, talk through your goals, and help you map out realistic steps to work toward qualifying down the road. We walk that path with you, one step at a time.",
+      "The first step is simple and free. It is a friendly call with one of our advisors. No pressure, just an honest conversation about what could bring you closer to a home of your own."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Su crédito aún no está listo? Hay opciones",
+    "preheader_es": "Es muy común, y podemos crear un plan realista juntos.",
+    "eyebrow_es": "EL CRÉDITO, CLARO",
+    "headline_es": "Que aún no sea el momento no significa que nunca lo será",
+    "body_es": [
+      "Si su crédito todavía no está donde necesita estar, respire tranquilo. Este es uno de los puntos de partida más comunes que vemos, y es algo que muchas personas logran mejorar con el tiempo y un plan claro.",
+      "Aquí no hay juicios. Vemos dónde está usted hoy, conversamos sobre sus metas y le ayudamos a trazar pasos realistas para acercarse a calificar más adelante. Recorremos ese camino con usted, paso a paso.",
+      "El primer paso es sencillo y gratis. Es una llamada amable con uno de nuestros asesores. Sin presión, solo una conversación honesta sobre lo que podría acercarlo a tener su propia casa."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "B2": {
+    "subject_en": "Small habits that build healthier credit",
+    "preheader_en": "A few everyday habits that may help you feel more prepared over time.",
+    "eyebrow_en": "CREDIT CONFIDENCE",
+    "headline_en": "Healthy credit is built one habit at a time",
+    "body_en": [
+      "When it comes to credit, the small things you do consistently are often what matter most. Paying your bills on time, every time, is one of the strongest habits you can build, and every on time payment can be a step in the right direction.",
+      "Keeping your balances low compared to your limits may also help. Many people find it useful to avoid taking on new debt or opening new accounts in the months before they apply for a home loan, since lenders like to see steady, predictable habits.",
+      "This is general information to help you feel more prepared, and it is not personalized advice about your situation. If you would like to talk through where you are today and what your path to a home could look like, one of our advisors is here to listen whenever you are ready."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Habitos pequenos que construyen un credito mas sano",
+    "preheader_es": "Habitos sencillos del dia a dia que pueden ayudarte a sentirte mas preparado.",
+    "eyebrow_es": "CONFIANZA EN TU CREDITO",
+    "headline_es": "El credito sano se construye un habito a la vez",
+    "body_es": [
+      "Cuando se trata de tu credito, las cosas pequenas que haces de forma constante suelen ser las que mas cuentan. Pagar tus cuentas a tiempo, siempre, es uno de los habitos mas fuertes que puedes formar, y cada pago puntual puede ser un paso en la direccion correcta.",
+      "Mantener tus saldos bajos en relacion con tus limites tambien puede ayudar. A muchas personas les sirve evitar tomar deudas nuevas o abrir cuentas nuevas en los meses antes de pedir un prestamo para casa, porque a los prestamistas les gusta ver habitos estables y predecibles.",
+      "Esta es informacion general para que te sientas mas preparado, no un consejo personalizado sobre tu situacion. Si quieres platicar sobre donde estas hoy y como podria verse tu camino hacia una casa, uno de nuestros asesores esta aqui para escucharte cuando tu estes listo."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "B3": {
+    "subject_en": "Keep the momentum going",
+    "preheader_en": "Small, steady steps can make a real difference over time.",
+    "eyebrow_en": "YOUR CREDIT JOURNEY",
+    "headline_en": "Every small step is taking you closer to home",
+    "body_en": [
+      "We wanted to check in and remind you that the work you are putting into your credit really does add up. Progress does not have to happen all at once. The small, steady habits are often what make the biggest difference over time.",
+      "You are not doing this alone. We are right here alongside you, following your progress and ready to answer questions whenever something comes up. There is no pressure and no rush. We move at the pace that feels right for you.",
+      "Whenever you are ready to talk through where you are and what could come next, an advisor is just a quick conversation away."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Siga con el impulso",
+    "preheader_es": "Los pasos pequeños y constantes pueden marcar una gran diferencia con el tiempo.",
+    "eyebrow_es": "SU CAMINO AL CRÉDITO",
+    "headline_es": "Cada paso pequeño lo acerca más a su hogar",
+    "body_es": [
+      "Queríamos saludarlo y recordarle que el esfuerzo que está poniendo en su crédito de verdad cuenta. El progreso no tiene que llegar todo de una vez. Los hábitos pequeños y constantes suelen ser los que hacen la mayor diferencia con el tiempo.",
+      "Usted no está haciendo esto solo. Estamos aquí, a su lado, atentos a su progreso y listos para responder sus preguntas cuando surja algo. No hay presión ni prisa. Avanzamos al ritmo que sea cómodo para usted.",
+      "Cuando esté listo para conversar sobre dónde se encuentra y qué pasos podrían seguir, un asesor está a solo una breve conversación de distancia."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "B4": {
+    "subject_en": "What becomes possible when you're ready",
+    "preheader_en": "Picture the day the keys are yours. That day may be closer than you think.",
+    "eyebrow_en": "YOUR PATH FORWARD",
+    "headline_en": "The home is waiting, and so are the doors that open with it.",
+    "body_en": [
+      "Picture the first morning in a home that is truly yours. The coffee, the quiet, the feeling that you built this. That moment may be closer than it feels right now, and getting ready is the part you can start today.",
+      "As your finances and credit grow stronger, more options can come into view. Many first-time buyers may qualify for programs with low down payment options, and some put down less than they expected. We will walk you through what could fit your situation so the path feels clear instead of overwhelming.",
+      "You do not have to figure this out alone. A short conversation with one of our advisors can show you where you stand and what a next step could look like. We make the path clear, and we move at your pace."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Lo que se vuelve posible cuando esté listo",
+    "preheader_es": "Imagine el día en que las llaves son suyas. Ese día podría estar más cerca de lo que cree.",
+    "eyebrow_es": "SU CAMINO HACIA ADELANTE",
+    "headline_es": "La casa lo espera, y también las puertas que se abren con ella.",
+    "body_es": [
+      "Imagine la primera mañana en una casa que de verdad es suya. El café, la calma, esa sensación de que usted lo logró. Ese momento podría estar más cerca de lo que a veces parece, y prepararse es algo que puede empezar hoy.",
+      "A medida que sus finanzas y su crédito se fortalecen, pueden abrirse más opciones. Muchos compradores por primera vez podrían calificar para programas con opciones de enganche bajo, y algunos dan menos de lo que esperaban. Le explicamos lo que podría funcionar para su situación, para que el camino se sienta claro y no abrumador.",
+      "No tiene que resolver esto solo. Una conversación corta con uno de nuestros asesores puede mostrarle dónde está parado y cómo podría verse el siguiente paso. Hacemos claro el camino y avanzamos a su ritmo."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "B5": {
+    "subject_en": "Let's take a fresh look at your numbers",
+    "preheader_en": "A quick, no-pressure look at where you stand today. You may be closer than you think.",
+    "eyebrow_en": "A FRESH START",
+    "headline_en": "A lot can change in a few months",
+    "body_en": [
+      "The last time we talked, the timing may not have felt right, and that is completely okay. Things shift over time, and the numbers that mattered then could look different today.",
+      "We would love to take a fresh look together. A short, no-pressure pre-qualification conversation can show you where you stand right now and what your options may be.",
+      "There is no commitment and no cost to talk. Many borrowers are surprised to find they are closer to a home of their own than they thought."
+    ],
+    "cta_en": "Let's talk",
+    "stat_label_en": "",
+    "subject_es": "Veamos sus números de nuevo",
+    "preheader_es": "Una mirada rápida y sin presión a dónde está hoy. Quizá está más cerca de lo que cree.",
+    "eyebrow_es": "UN NUEVO COMIENZO",
+    "headline_es": "Mucho puede cambiar en unos meses",
+    "body_es": [
+      "La última vez que hablamos, quizá no era el momento indicado, y eso está bien. Las cosas cambian con el tiempo, y los números que importaban entonces podrían verse distintos hoy.",
+      "Nos encantaría revisarlo juntos de nuevo. Una conversación breve de precalificación, sin presión, puede mostrarle dónde está hoy y qué opciones podría tener.",
+      "No hay compromiso ni costo por conversar. A muchas personas les sorprende descubrir que están más cerca de tener su propia casa de lo que pensaban."
+    ],
+    "cta_es": "Conversemos",
+    "stat_label_es": ""
+  },
+  "B6": {
+    "subject_en": "Still in your corner",
+    "preheader_en": "No pressure at all. We are here whenever you are ready.",
+    "eyebrow_en": "FROM YOUR WFG TEAM",
+    "headline_en": "We are still here for you",
+    "body_en": [
+      "We know life gets busy, and there is no rush on your end. We simply wanted you to know we are still in your corner, for whenever the time feels right.",
+      "Homeownership is a journey, and everyone moves at their own pace. When you are ready to pick things back up, even months from now, we would be glad to hear from you.",
+      "No pressure and no pushing. Just a friendly note to say the door is open whenever you want to talk."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Seguimos a su lado",
+    "preheader_es": "Sin ninguna prisa. Aquí estamos cuando usted quiera.",
+    "eyebrow_es": "DE PARTE DE SU EQUIPO WFG",
+    "headline_es": "Seguimos aquí para usted",
+    "body_es": [
+      "Sabemos que la vida se llena de ocupaciones y no hay ninguna prisa de su parte. Solo queríamos que supiera que seguimos a su lado, para cuando usted sienta que es el momento adecuado.",
+      "Comprar casa es un camino, y cada quien avanza a su propio ritmo. Cuando esté listo para retomarlo, aunque sea dentro de varios meses, con mucho gusto lo escuchamos.",
+      "Sin presión y sin insistir. Solo un mensaje sencillo para decirle que la puerta sigue abierta y aquí estamos cuando quiera platicar."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "B7": {
+    "subject_en": "Whenever you are ready, we are one call away",
+    "preheader_en": "No rush and no pressure. The door stays open for when the timing feels right.",
+    "eyebrow_en": "WHEN THE TIME IS RIGHT",
+    "headline_en": "Your home is still waiting for you",
+    "body_en": [
+      "Getting ready to buy a home takes time, and that is completely okay. There is no rush here, and there is no pressure from us.",
+      "Whenever the moment feels right, we would love to help you understand your options and make the path clear. Many buyers find they are closer than they think.",
+      "This is our last note for now, but our door stays open. When you are ready, we are just one call away."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Cuando usted quiera, estamos a una llamada",
+    "preheader_es": "Sin prisa y sin presion. La puerta queda abierta para cuando sea el momento.",
+    "eyebrow_es": "CUANDO SEA EL MOMENTO",
+    "headline_es": "Su casa lo sigue esperando",
+    "body_es": [
+      "Prepararse para comprar una casa toma tiempo, y eso esta muy bien. Aqui no hay prisa, y de nuestra parte no hay ninguna presion.",
+      "Cuando usted sienta que es el momento, nos encantaria ayudarle a entender sus opciones y dejarle claro el camino. Muchos compradores estan mas cerca de lo que piensan.",
+      "Este es nuestro ultimo mensaje por ahora, pero nuestra puerta queda abierta. Cuando usted quiera, estamos a una sola llamada de distancia."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C1": {
+    "subject_en": "You are pre-qualified. Congratulations",
+    "preheader_en": "A real step toward your own home, and here is what could come next.",
+    "eyebrow_en": "A MILESTONE TO CELEBRATE",
+    "headline_en": "You are pre-qualified, and the path just got clearer",
+    "body_en": [
+      "Congratulations. You are now pre-qualified, and that is a real moment worth celebrating. It means you have taken one of the most important steps toward owning your own home, and you can feel proud of it.",
+      "A pre-qualification can give you real momentum when you start shopping. It helps show sellers and agents that you are a serious, prepared buyer, which may help your offer stand out.",
+      "Please keep in mind that a pre-qualification is not a final commitment to lend. It is still subject to conditions, document verification, and approval of the property you choose.",
+      "Here is what could come next. Keep your finances steady, avoid new debts or large purchases, and start looking at homes within your range. When you are ready, or whenever you have questions, your advisor is here to walk every step with you. We make the path clear."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Está precalificado. Felicidades",
+    "preheader_es": "Un paso real hacia su propia casa, y esto es lo que podría seguir.",
+    "eyebrow_es": "UN LOGRO PARA CELEBRAR",
+    "headline_es": "Está precalificado, y el camino se ve más claro",
+    "body_es": [
+      "Felicidades. Ya está precalificado, y ese es un momento que vale la pena celebrar. Significa que ha dado uno de los pasos más importantes para ser dueño de su propia casa, y puede sentirse orgulloso de eso.",
+      "Una precalificación puede darle un impulso real cuando empiece a buscar. Ayuda a demostrarles a los vendedores y agentes que usted es un comprador serio y preparado, lo cual podría hacer que su oferta resalte.",
+      "Tenga presente que una precalificación no es un compromiso final de prestar. Todavía está sujeta a condiciones, a la verificación de documentos y a la aprobación de la propiedad que usted elija.",
+      "Esto es lo que podría seguir. Mantenga sus finanzas estables, evite nuevas deudas o compras grandes, y empiece a ver casas dentro de su rango. Cuando esté listo, o cuando tenga preguntas, su asesor está aquí para acompañarlo en cada paso. Nosotros hacemos claro el camino."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C2": {
+    "subject_en": "Your application is in. Here is what happens next",
+    "preheader_en": "We have your application, and your loan team is already on it.",
+    "eyebrow_en": "APPLICATION RECEIVED",
+    "headline_en": "We received your application",
+    "body_en": [
+      "Thank you for trusting us with this step. We have received your application, and your loan team is already reviewing it. You did the hard part, and now we get to work for you.",
+      "Here is what comes next. Over the next few days we will look everything over, and we may reach out if we need a document or two to keep things moving. From there we work toward your pre-approval, which can give you a clearer picture of your numbers as you shop for your home.",
+      "We want this to feel simple and clear the whole way through. If a question comes up at any point, we are one call or message away and happy to walk you through it."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Recibimos su solicitud. Esto es lo que sigue",
+    "preheader_es": "Ya tenemos su solicitud y su equipo de préstamo está trabajando en ella.",
+    "eyebrow_es": "SOLICITUD RECIBIDA",
+    "headline_es": "Recibimos su solicitud",
+    "body_es": [
+      "Gracias por confiar en nosotros en este paso. Ya recibimos su solicitud y su equipo de préstamo la está revisando. Usted hizo la parte más difícil y ahora nos toca trabajar para usted.",
+      "Esto es lo que sigue. En los próximos días vamos a revisar todo con calma y es posible que le pidamos uno o dos documentos para mantener el proceso en marcha. A partir de ahí trabajamos hacia su pre-aprobación, que le puede dar una idea más clara de sus números mientras busca su casa.",
+      "Queremos que todo el camino se sienta sencillo y claro. Si le surge una pregunta en cualquier momento, estamos a una llamada o un mensaje de distancia y con gusto se la respondemos."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C3": {
+    "subject_en": "Your loan is now in processing",
+    "preheader_en": "We are reviewing your file and will keep you posted at every step.",
+    "eyebrow_en": "IN PROCESSING",
+    "headline_en": "Good news. Your loan is moving forward.",
+    "body_en": [
+      "Your loan has officially moved into processing. This means our team is now reviewing the details of your file and preparing for the next steps. There is nothing you need to do right now.",
+      "As we go through your file, we may reach out for a few items, such as an updated document or a quick clarification. If we do, we will tell you exactly what we need and why, so everything stays clear.",
+      "Please know that we are handling this for you and we will keep you posted along the way. You are in good hands, and we are here whenever you have a question."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Su préstamo ya está en procesamiento",
+    "preheader_es": "Estamos revisando su archivo y lo mantendremos informado en cada paso.",
+    "eyebrow_es": "EN PROCESAMIENTO",
+    "headline_es": "Buenas noticias. Su préstamo avanza.",
+    "body_es": [
+      "Su préstamo entró oficialmente en la etapa de procesamiento. Esto significa que nuestro equipo ya está revisando los detalles de su archivo y preparando todo para los siguientes pasos. Por ahora no tiene que hacer nada.",
+      "A medida que revisamos su archivo, es posible que le pidamos algunos documentos adicionales o una aclaración rápida. Si lo hacemos, le diremos exactamente qué necesitamos y por qué, para que todo quede claro.",
+      "Queremos que sepa que nosotros nos estamos encargando de esto por usted y lo mantendremos informado en el camino. Está en buenas manos, y aquí estamos para cualquier pregunta que tenga."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C4": {
+    "subject_en": "Your home appraisal has been ordered",
+    "preheader_en": "Here is what an appraisal is and why it usually needs nothing from you.",
+    "eyebrow_en": "LOAN UPDATE",
+    "headline_en": "Good news, your appraisal has been ordered",
+    "body_en": [
+      "We have ordered the appraisal on your home, and a licensed appraiser will be scheduled to visit the property soon. This is a normal and important step in your loan, and it means things are moving forward.",
+      "An appraisal is simply an independent estimate of what the home may be worth. A professional looks at the property and at recent sales of similar homes nearby, then gives an honest opinion of its value. This helps confirm that the home is priced fairly and offers you peace of mind as the buyer.",
+      "In most cases there is nothing you need to do. The appraiser usually coordinates access directly with the seller or the listing agent, and we will reach out to you only if something is needed.",
+      "Appraisals often take about one to two weeks to complete, and we will keep you updated along the way. If you have any questions, we are always here for you."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Su avaluo ya esta en camino",
+    "preheader_es": "Le explicamos que es un avaluo y por que casi siempre no requiere nada de usted.",
+    "eyebrow_es": "ACTUALIZACION DE SU PRESTAMO",
+    "headline_es": "Buenas noticias, ya pedimos su avaluo",
+    "body_es": [
+      "Ya solicitamos el avaluo de su casa y pronto se programara la visita de un avaluador con licencia a la propiedad. Este es un paso normal e importante dentro de su proceso, y significa que todo sigue avanzando.",
+      "Un avaluo es simplemente una estimacion independiente de cuanto podria valer la casa. Un profesional revisa la propiedad y las ventas recientes de casas similares en la zona, y luego da una opinion honesta sobre su valor. Esto ayuda a confirmar que la casa tiene un precio justo y le da tranquilidad a usted como comprador.",
+      "En la mayoria de los casos no hay nada que usted tenga que hacer. Por lo general el avaluador coordina el acceso directamente con el vendedor o con el agente, y lo contactaremos solo si llegara a necesitarse algo.",
+      "El avaluo suele tomar entre una y dos semanas, y lo mantendremos informado en cada paso. Si tiene alguna pregunta, aqui estamos para usted."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C5": {
+    "subject_en": "A few items to keep your loan moving",
+    "preheader_en": "A short document checklist will help us move your loan to the next step.",
+    "eyebrow_en": "YOUR LOAN IN PROGRESS",
+    "headline_en": "We are close. Just a few documents to go.",
+    "body_en": [
+      "Your loan is moving along nicely, and we are glad to keep it going for you. To reach the next step, our team needs a few documents from you. These help us confirm the details and keep everything on track.",
+      "Below is a short checklist. Your loan officer can adjust it to match exactly what your file needs. Sending these over soon helps us keep your timeline steady and avoid delays.",
+      "Please upload your documents through our secure link, or reply to this email and we will share a safe way to send them. For your protection, please do not send sensitive information by regular text. If anything on the list is unclear, we are happy to walk you through it."
+    ],
+    "cta_en": "Send your documents",
+    "action_items_en": [
+      "Your two most recent pay stubs",
+      "Bank statements for the last two months (all pages)",
+      "A clear photo of your government-issued ID",
+      "A short letter of explanation, if your loan officer requests one"
+    ],
+    "subject_es": "Unos documentos para seguir avanzando",
+    "preheader_es": "Una lista corta de documentos nos ayuda a avanzar al siguiente paso.",
+    "eyebrow_es": "SU PRESTAMO EN PROCESO",
+    "headline_es": "Ya casi. Solo faltan unos documentos.",
+    "body_es": [
+      "Su préstamo va avanzando muy bien y nos alegra seguir adelante con usted. Para llegar al siguiente paso, nuestro equipo necesita unos documentos de su parte. Estos nos ayudan a confirmar los detalles y a mantener todo en marcha.",
+      "Aquí abajo tiene una lista corta. Su asesor puede ajustarla para que coincida con lo que su expediente necesita. Enviarlos pronto nos ayuda a mantener su proceso firme y a evitar demoras.",
+      "Por favor suba sus documentos por nuestro enlace seguro, o responda a este correo y le compartiremos una forma segura de enviarlos. Para su protección, no envíe información sensible por mensaje de texto normal. Si algo de la lista no le queda claro, con gusto se lo explicamos."
+    ],
+    "cta_es": "Enviar sus documentos",
+    "action_items_es": [
+      "Sus dos talones de pago más recientes",
+      "Estados de cuenta bancarios de los últimos dos meses (todas las páginas)",
+      "Una foto clara de su identificación oficial",
+      "Una carta breve de explicación, si su asesor la solicita"
+    ]
+  },
+  "C6": {
+    "subject_en": "Your loan is in final review",
+    "preheader_en": "You are almost there. Here is what underwriting looks at.",
+    "eyebrow_en": "IN UNDERWRITING",
+    "headline_en": "You are almost there",
+    "body_en": [
+      "Good news. Your loan has moved into underwriting, one of the final steps in the journey. This is the stage where everything you have worked toward really starts to come together.",
+      "During this review, an underwriter looks at the full picture. They confirm the details on your income and assets, review the property, and check that everything is in order so your loan can keep moving forward. It is a careful process, and it means you are close.",
+      "You do not need to do anything right now. If the underwriter happens to need one more document, we will reach out and walk you through it. We will keep you updated quickly at every step, so you are never left wondering where things stand."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Su préstamo está en revisión final",
+    "preheader_es": "Ya casi llega. Esto es lo que se revisa en este paso.",
+    "eyebrow_es": "EN REVISIÓN",
+    "headline_es": "Ya casi llega",
+    "body_es": [
+      "Buenas noticias. Su préstamo pasó a la revisión final, uno de los últimos pasos del camino. Aquí es donde todo lo que ha trabajado empieza a tomar forma.",
+      "En esta etapa, un especialista revisa todo el panorama con calma. Confirma los detalles de sus ingresos y sus ahorros, revisa la propiedad y verifica que todo esté en orden para que su préstamo siga avanzando. Es un proceso cuidadoso, y eso quiere decir que ya está cerca.",
+      "Por ahora no necesita hacer nada. Si el especialista llega a pedir algún documento adicional, nosotros lo contactamos y lo guiamos paso a paso. Lo mantendremos al tanto con rapidez en cada momento, para que siempre sepa cómo va su proceso."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C7": {
+    "subject_en": "Wonderful news, you are Clear to Close",
+    "preheader_en": "Your file has reached Clear to Close. Here is what happens next.",
+    "eyebrow_en": "CLEAR TO CLOSE",
+    "headline_en": "You are Clear to Close",
+    "body_en": [
+      "This is the moment we have all been working toward. Your loan has reached Clear to Close, which means the review is complete and your file is cleared to move forward to closing day.",
+      "Next, you will receive your final closing details, including the date, time, and location to sign, along with the funds you may need to bring. We will walk you through every step so nothing catches you by surprise.",
+      "Take a breath and feel proud. You are almost home, and we are right here with you to make the path clear all the way to the keys."
+    ],
+    "cta_en": "Talk to your advisor",
+    "subject_es": "Que gran noticia, ya tienes la autorizacion para cerrar",
+    "preheader_es": "Tu expediente llego a la autorizacion para cerrar. Esto es lo que sigue.",
+    "eyebrow_es": "LISTO PARA CERRAR",
+    "headline_es": "Ya tienes la autorizacion para cerrar",
+    "body_es": [
+      "Este es el momento por el que tanto hemos trabajado. Tu prestamo llego a la etapa de autorizacion para cerrar, lo que significa que la revision esta completa y tu expediente quedo listo para avanzar al dia del cierre.",
+      "Lo que sigue es que recibiras los detalles finales del cierre, con la fecha, la hora y el lugar para firmar, junto con los fondos que tal vez necesites llevar. Te vamos a acompanar en cada paso para que nada te tome por sorpresa.",
+      "Respira hondo y siente orgullo. Ya casi estas en casa, y aqui estamos contigo para hacer claro el camino hasta las llaves."
+    ],
+    "cta_es": "Habla con tu asesor"
+  },
+  "C8": {
+    "subject_en": "Your closing day is set",
+    "preheader_en": "What to bring and what to expect when you sign.",
+    "eyebrow_en": "CLOSING SCHEDULED",
+    "headline_en": "Your closing is scheduled",
+    "body_en": [
+      "This is the moment we have been working toward together. Your closing is scheduled, and the keys to your own home are almost in your hands.",
+      "At signing, please bring a valid government-issued photo ID and any funds needed to close in the form your advisor confirmed with you. Plan to arrive a few minutes early so you can read through the documents calmly. Your team will be right there to walk you through each one.",
+      "One important note before closing day. If you are sending funds by wire, always call your advisor or the title company at a known phone number to verify the instructions before you send anything. We are here to make the path clear, so reach out with any question, big or small."
+    ],
+    "cta_en": "Confirm with your advisor",
+    "subject_es": "Su cierre ya tiene fecha",
+    "preheader_es": "Qué llevar y qué esperar el día de la firma.",
+    "eyebrow_es": "CIERRE PROGRAMADO",
+    "headline_es": "Su cierre ya está programado",
+    "body_es": [
+      "Este es el momento por el que hemos trabajado juntos. Su cierre ya está programado, y las llaves de su propia casa están a punto de llegar a sus manos.",
+      "El día de la firma, por favor lleve una identificación oficial con foto y los fondos necesarios para cerrar en la forma que su asesor le confirmó. Llegue unos minutos antes para que pueda leer los documentos con calma. Su equipo estará ahí para explicarle cada uno.",
+      "Una nota importante antes del día del cierre. Si va a enviar fondos por transferencia bancaria, llame siempre a su asesor o a la compañía de título a un número de teléfono conocido para verificar las instrucciones antes de enviar nada. Estamos aquí para hacer claro el camino, así que escríbanos con cualquier pregunta, grande o pequeña."
+    ],
+    "cta_es": "Confirmar con su asesor"
+  },
+  "C9": {
+    "subject_en": "Congratulations, the keys are yours",
+    "preheader_en": "Welcome home. This door opens to a place that is truly your own.",
+    "eyebrow_en": "WELCOME HOME",
+    "headline_en": "The keys are yours",
+    "body_en": [
+      "Congratulations. Today the keys are in your hands, and the door opens to a home that is truly yours. This is a moment worth celebrating, and we are so glad to celebrate it with you.",
+      "Thank you for trusting Warens Financial Group to walk this path beside you. Choosing who helps you buy a home is a big decision, and it means the world to us that you chose us.",
+      "This is not goodbye. We are here for you, for your questions, your next steps, and the people you love who dream of a home of their own. Whenever you need us, we are one call away."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Felicidades, las llaves son suyas",
+    "preheader_es": "Bienvenido a casa. Esta puerta abre a un lugar que ya es suyo.",
+    "eyebrow_es": "BIENVENIDO A CASA",
+    "headline_es": "Las llaves son suyas",
+    "body_es": [
+      "Felicidades. Hoy las llaves están en sus manos y la puerta se abre a un hogar que de verdad es suyo. Este es un momento que vale la pena celebrar, y nos llena de alegría celebrarlo con usted.",
+      "Gracias por confiar en Warens Financial Group para acompañarlo en este camino. Elegir a quien lo ayuda a comprar su casa es una decisión muy importante, y para nosotros significa mucho que nos haya elegido.",
+      "Esto no es una despedida. Aquí estamos para usted, para sus preguntas, sus próximos pasos y las personas que ama que también sueñan con un hogar propio. Cuando nos necesite, estamos a una sola llamada."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "C10": {
+    "subject_en": "Thank you, and a small favor",
+    "preheader_en": "Your keys are in hand. If we helped, would you point a friend our way?",
+    "eyebrow_en": "A NOTE OF THANKS",
+    "headline_en": "Congratulations on your new home",
+    "body_en": [
+      "From all of us at Warens Financial Group, thank you for trusting us with one of the biggest moments of your life. Walking with you on the path to your own home was an honor, and seeing you with your keys made our day.",
+      "If the experience meant something to you, we have a small favor to ask. Many of the families we help find us through someone they trust. If you know a friend or family member who may be thinking about buying a home, we would be grateful for the introduction.",
+      "If you have a moment, a short review can help other families feel confident taking that first step. And if anything ever comes up down the road, we are always here for you."
+    ],
+    "cta_en": "Refer a friend",
+    "subject_es": "Gracias, y un pequeño favor",
+    "preheader_es": "Ya tienes las llaves en la mano. Si te ayudamos, nos recomiendas con alguien?",
+    "eyebrow_es": "UNAS PALABRAS DE GRATITUD",
+    "headline_es": "Felicidades por tu nueva casa",
+    "body_es": [
+      "De parte de todo el equipo de Warens Financial Group, gracias por confiarnos uno de los momentos más importantes de tu vida. Acompañarte en el camino hacia tu propia casa fue un honor, y verte con las llaves en la mano nos llena de alegría.",
+      "Si la experiencia significó algo para ti, queremos pedirte un pequeño favor. Muchas de las familias que ayudamos llegan a nosotros gracias a alguien en quien confían. Si conoces a un amigo o familiar que esté pensando en comprar casa, nos encantaría que nos lo presentaras.",
+      "Si tienes un momento, una reseña corta puede ayudar a otras familias a sentirse seguras de dar ese primer paso. Y si algún día necesitas algo más, aquí vamos a estar para ti."
+    ],
+    "cta_es": "Recomendar a un amigo"
+  },
+  "D1": {
+    "subject_en": "How are you settling into the new home?",
+    "preheader_en": "A 30-day check-in, and answers to any homeowner questions.",
+    "eyebrow_en": "A FRIENDLY CHECK-IN",
+    "headline_en": "One month in. How does it feel?",
+    "body_en": [
+      "It has been about a month since you got the keys, and you have been on our minds. We hope the house is starting to feel like home and that you are settling in at your own pace.",
+      "A new home can bring a few new questions along the way. You may be wondering about your monthly statement, property taxes, insurance, or simply what to keep an eye on as a homeowner. Whatever it is, we are happy to walk through it with you in plain language.",
+      "And if a friend or family member ever asks how you found your way home, we would be honored to help them too. For now, we are simply glad you are here, and we are a message away whenever you need us."
+    ],
+    "cta_en": "Ask us anything",
+    "subject_es": "Como se está acomodando en su nueva casa?",
+    "preheader_es": "Un saludo al cumplir el primer mes, y respuestas a sus dudas.",
+    "eyebrow_es": "UN SALUDO CARIÑOSO",
+    "headline_es": "Ya pasó un mes. Como se siente?",
+    "body_es": [
+      "Ya pasó cerca de un mes desde que recibió las llaves, y lo hemos tenido presente. Esperamos que la casa empiece a sentirse como su hogar y que se esté acomodando a su propio ritmo.",
+      "Una casa nueva trae preguntas nuevas con el tiempo. Tal vez tenga dudas sobre su estado de cuenta mensual, los impuestos de la propiedad, el seguro, o simplemente en qué fijarse como propietario. Sea lo que sea, con gusto lo repasamos con usted en palabras sencillas.",
+      "Y si algún amigo o familiar le pregunta cómo encontró el camino a su hogar, sería un honor ayudarlo también. Por ahora, solo nos alegra que esté aquí, y estamos a un mensaje de distancia cuando nos necesite."
+    ],
+    "cta_es": "Pregúntenos lo que sea"
+  },
+  "D2": {
+    "subject_en": "Happy one-year home anniversary",
+    "preheader_en": "One year in your home. Let's make sure your loan still fits your life.",
+    "eyebrow_en": "ONE YEAR IN",
+    "headline_en": "A year of memories in a home that is yours",
+    "body_en": [
+      "Happy one-year home anniversary. A year ago you opened the door to a place that is truly yours, and everyone at Warens Financial Group is proud to have walked that path with you.",
+      "A lot can change in a year. Your income, your goals, and the market can all shift, and the loan that fit you on day one may have room to serve you even better today.",
+      "That is why we would love to offer you a complimentary annual mortgage review. There is no cost and no pressure. We will simply look at where things stand and talk through any options that could make sense for you.",
+      "Whenever you are ready, your advisor is here to help."
+    ],
+    "cta_en": "Schedule my free review",
+    "subject_es": "Feliz primer aniversario en su casa",
+    "preheader_es": "Un año en su hogar. Veamos si su préstamo todavía se ajusta a su vida.",
+    "eyebrow_es": "UN AÑO EN CASA",
+    "headline_es": "Un año de recuerdos en un hogar que es suyo",
+    "body_es": [
+      "Feliz primer aniversario en su casa. Hace un año usted abrió la puerta de un lugar que de verdad es suyo, y en Warens Financial Group nos sentimos orgullosos de haber recorrido ese camino con usted.",
+      "En un año pueden cambiar muchas cosas. Sus ingresos, sus metas y el mercado pueden moverse, y el préstamo que le quedaba bien el primer día tal vez podría servirle aún mejor hoy.",
+      "Por eso nos encantaría ofrecerle una revisión anual de su hipoteca, sin costo alguno. No hay ningún compromiso. Solo veremos cómo están las cosas y conversaremos sobre las opciones que podrían tener sentido para usted.",
+      "Cuando usted lo desee, su asesor está aquí para ayudarle."
+    ],
+    "cta_es": "Agendar mi revisión gratis"
+  },
+  "D3": {
+    "subject_en": "Watching the market with your home in mind",
+    "preheader_en": "If a refinance could ever help, we will reach out. Ask us anytime.",
+    "eyebrow_en": "STILL IN YOUR CORNER",
+    "headline_en": "Your home loan, still on our radar",
+    "body_en": [
+      "Closing your loan was a beginning for us, not an ending. We keep an eye on the market on your behalf, and if a refinance could ever make sense for your situation, we will reach out so you can decide.",
+      "Refinancing is not right for everyone, and whether it helps depends on your goals and on qualifying. Some homeowners may lower a payment or free up a little room in their budget, while for others staying put is the smarter move. We will give you an honest read either way.",
+      "You do not have to wait for us to call. If you are curious where you stand today, just reply to this email or talk with an advisor. We are happy to take a look, with no pressure and no cost to ask."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Atentos al mercado, pensando en su casa",
+    "preheader_es": "Si un refinanciamiento pudiera ayudarle, le avisamos. Pregúntenos cuando quiera.",
+    "eyebrow_es": "SEGUIMOS A SU LADO",
+    "headline_es": "Su préstamo sigue en nuestro radar",
+    "body_es": [
+      "Cerrar su préstamo fue un comienzo para nosotros, no un final. Seguimos atentos al mercado por usted, y si en algún momento un refinanciamiento pudiera tener sentido para su situación, le avisamos para que usted decida.",
+      "El refinanciamiento no es para todos, y si conviene o no depende de sus metas y de calificar. Algunos propietarios podrían bajar un pago o darle un poco de aire a su presupuesto, mientras que para otros lo más conveniente es quedarse como están. De cualquier forma, le daremos una opinión honesta.",
+      "No tiene que esperar a que le llamemos. Si tiene curiosidad por saber cómo está hoy, responda a este correo o hable con un asesor. Con gusto lo revisamos, sin presión y sin costo por preguntar."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "D4": {
+    "subject_en": "The best compliment you could give us",
+    "preheader_en": "If we earned your trust, we would be honored to care for someone you love.",
+    "eyebrow_en": "A WARM THANK YOU",
+    "headline_en": "When you trust us with someone you love",
+    "body_en": [
+      "Thank you for letting us walk beside you on the path to your home. It is an honor we do not take lightly, and we hope the road felt a little clearer with us by your side.",
+      "If someone you know is dreaming of their own front door, we would be grateful for the chance to help them too. A referral is the highest compliment we can receive, and it tells us we did right by you.",
+      "It could not be simpler. Just share their name, or invite them to reach out, and we will care for them the same way we cared for you. We listen first, explain everything in plain language, and help them see what may be possible."
+    ],
+    "cta_en": "Refer someone you love",
+    "subject_es": "El mejor cumplido que nos podría dar",
+    "preheader_es": "Si nos ganamos su confianza, con gusto cuidaríamos a alguien que usted quiere.",
+    "eyebrow_es": "UN GRACIAS DE CORAZÓN",
+    "headline_es": "Cuando nos confía a alguien que usted quiere",
+    "body_es": [
+      "Gracias por dejarnos caminar a su lado rumbo a su hogar. Es un honor que valoramos de verdad, y esperamos que el camino se haya sentido más claro con nosotros junto a usted.",
+      "Si conoce a alguien que sueña con abrir la puerta de su propia casa, nos encantaría tener la oportunidad de acompañarlo también. Una recomendación suya es el cumplido más grande que podemos recibir, porque nos dice que hicimos bien las cosas con usted.",
+      "No puede ser más fácil. Solo comparta su nombre, o invítelo a contactarnos, y lo vamos a cuidar con el mismo cariño con el que lo cuidamos a usted. Primero escuchamos, le explicamos todo en palabras sencillas, y le ayudamos a ver lo que podría ser posible."
+    ],
+    "cta_es": "Recomiende a alguien que quiere"
+  },
+  "D5": {
+    "subject_en": "From our family to yours",
+    "preheader_en": "A heartfelt thank you from everyone at Warens Financial Group.",
+    "eyebrow_en": "A NOTE OF THANKS",
+    "headline_en": "From our family to yours",
+    "body_en": [
+      "As this season arrives, all of us at Warens Financial Group want to pause and simply say thank you. Walking alongside you, whether on the path to your own home or well beyond it, is something we never take for granted.",
+      "There is nothing to do here and nothing to sign. This is just a warm note to let you know we are thinking of you and your loved ones, and wishing you a season full of rest, gratitude, and the people who matter most.",
+      "Whenever you need us, for a question or simply to say hello, our door is always open. From our family to yours, thank you for letting us be a small part of your story."
+    ],
+    "cta_en": "Say hello anytime",
+    "subject_es": "De nuestra familia a la suya",
+    "preheader_es": "Un agradecimiento de todo corazón de parte de Warens Financial Group.",
+    "eyebrow_es": "UNA NOTA DE GRATITUD",
+    "headline_es": "De nuestra familia a la suya",
+    "body_es": [
+      "En esta temporada, todos en Warens Financial Group queremos detenernos un momento y simplemente darle las gracias. Acompañarlo, ya sea rumbo a su propia casa o mucho después de ese día, es algo que valoramos de corazón.",
+      "Aquí no hay nada que hacer ni nada que firmar. Esta es solo una nota cálida para decirle que estamos pensando en usted y en sus seres queridos, y para desearle una temporada llena de descanso, gratitud y las personas que más quiere.",
+      "Siempre que nos necesite, para una pregunta o simplemente para saludar, nuestra puerta está abierta. De nuestra familia a la suya, gracias por dejarnos ser una pequeña parte de su historia."
+    ],
+    "cta_es": "Salúdenos cuando quiera"
+  },
+  "CF1": {
+    "subject_en": "Your final numbers and where to close",
+    "preheader_en": "Everything you need for closing day, including where to go and how to bring funds.",
+    "eyebrow_en": "READY FOR CLOSING",
+    "headline_en": "Your final numbers are ready",
+    "body_en": [
+      "Congratulations, you are at the finish line. We have balanced your file with the title company and your final numbers are ready. Your total cash to close is {{cash_to_close}}.",
+      "You will close with {{title_company}}, located at {{title_address}}. Please plan to bring a valid government-issued photo ID and your funds in the form they confirm with you.",
+      "Important: do not send a wire based on instructions in any email. Call {{title_company}} directly at their verified number, {{title_phone}}, to confirm exactly how to send a wire or whether to bring a cashier's check. Your closing is set for {{closing_date_time}}. If anything looks off, call us right away."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Sus números finales y dónde cerrar",
+    "preheader_es": "Todo lo que necesita para el día del cierre, dónde ir y cómo llevar los fondos.",
+    "eyebrow_es": "LISTO PARA CERRAR",
+    "headline_es": "Sus números finales están listos",
+    "body_es": [
+      "Felicidades, ya está en la recta final. Cuadramos su expediente con la compañía de título y sus números finales están listos. Su total a pagar en el cierre es {{cash_to_close}}.",
+      "Va a cerrar con {{title_company}}, ubicada en {{title_address}}. Por favor lleve una identificación oficial con foto y sus fondos en la forma que ellos le confirmen.",
+      "Importante: no envíe una transferencia basándose en instrucciones de ningún correo. Llame directamente a {{title_company}} a su número verificado, {{title_phone}}, para confirmar cómo enviar una transferencia o si debe llevar un cheque de caja. Su cierre está programado para {{closing_date_time}}. Si algo no le cuadra, llámenos de inmediato."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "E1": {
+    "subject_en": "Would you share your experience?",
+    "preheader_en": "If we earned it, a quick review helps other families take the first step.",
+    "eyebrow_en": "A QUICK FAVOR",
+    "headline_en": "How did we do?",
+    "body_en": [
+      "Now that you are settling in, we would love to know how your experience felt. Your honest words mean the world to our team.",
+      "If we helped make the path clear, would you take two minutes to leave a review? It helps other families feel confident taking their own first step toward a home.",
+      "And if anything was less than five stars, tell us directly so we can make it right. We are always in your corner."
+    ],
+    "cta_en": "Leave a review",
+    "subject_es": "Nos comparte su experiencia?",
+    "preheader_es": "Si nos lo ganamos, una reseña rápida ayuda a otras familias a dar el primer paso.",
+    "eyebrow_es": "UN PEQUEÑO FAVOR",
+    "headline_es": "Cómo lo hicimos?",
+    "body_es": [
+      "Ahora que se está acomodando, nos encantaría saber cómo se sintió su experiencia. Sus palabras honestas significan mucho para nuestro equipo.",
+      "Si le ayudamos a hacer claro el camino, nos regalaría dos minutos para dejar una reseña? Ayuda a que otras familias se sientan seguras de dar su propio primer paso hacia una casa.",
+      "Y si algo no fue de cinco estrellas, díganoslo directamente para poder corregirlo. Siempre estamos a su lado."
+    ],
+    "cta_es": "Dejar una reseña"
+  },
+  "E2": {
+    "subject_en": "When your first mortgage payment is due",
+    "preheader_en": "A heads up on your first payment and the lender letter to watch for.",
+    "eyebrow_en": "GETTING SETTLED",
+    "headline_en": "Your first payment, explained",
+    "body_en": [
+      "One of the nicest surprises after closing is that your first mortgage payment is not due the very next month. You skip a month. For example, if you close in March, your first payment is usually due May 1. Your exact first payment date is {{first_payment_date}}, and it is also on your Closing Disclosure.",
+      "Soon your loan servicer will send you a welcome letter by email and by mail. That letter is how you set up your online account and automatic payments, so keep an eye out for it and follow their steps to enroll in autopay.",
+      "If anything is unclear, or the letter does not arrive, reach out and we will help you track it down. We are here long after closing day."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Cuándo vence su primer pago de hipoteca",
+    "preheader_es": "Un aviso sobre su primer pago y la carta del banco que debe esperar.",
+    "eyebrow_es": "YA EN CASA",
+    "headline_es": "Su primer pago, explicado",
+    "body_es": [
+      "Una de las mejores sorpresas después del cierre es que su primer pago de hipoteca no vence el mes siguiente. Se salta un mes. Por ejemplo, si cierra en marzo, su primer pago suele vencer el 1 de mayo. Su fecha exacta de primer pago es {{first_payment_date}}, y también aparece en su Closing Disclosure.",
+      "Pronto su administrador del préstamo le enviará una carta de bienvenida por correo y por correo postal. Esa carta es la forma de crear su cuenta en línea y sus pagos automáticos, así que esté atento y siga sus pasos para inscribirse en el pago automático.",
+      "Si algo no le queda claro, o la carta no llega, avísenos y le ayudamos a localizarla. Aquí estamos mucho después del día del cierre."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "E3": {
+    "subject_en": "A simple filing that can lower your taxes",
+    "preheader_en": "The homestead exemption can save you money every year. Here is how.",
+    "eyebrow_en": "SAVE MONEY",
+    "headline_en": "Do not skip your homestead exemption",
+    "body_en": [
+      "Now that this is your primary home, you may qualify for a homestead exemption. It lowers the taxable value of your home, which can mean real savings on your property taxes every single year.",
+      "You file it once with your county appraisal district, and it is usually free to do. In Texas you generally file once you own and live in the home, and it is worth doing as soon as you can.",
+      "We are happy to point you to the right steps so it is simple. Helping you save money is part of being your lender for life, so just reach out with any question."
+    ],
+    "cta_en": "Ask us how",
+    "subject_es": "Un trámite sencillo que puede bajar sus impuestos",
+    "preheader_es": "La exención de homestead le puede ahorrar dinero cada año. Aquí le explicamos.",
+    "eyebrow_es": "AHORRE DINERO",
+    "headline_es": "No se salte su exención de homestead",
+    "body_es": [
+      "Ahora que esta es su casa principal, podría calificar para una exención de homestead. Reduce el valor gravable de su casa, lo que puede significar un ahorro real en sus impuestos de propiedad cada año.",
+      "Se solicita una sola vez ante el distrito de avalúos de su condado, y normalmente es gratis. En Texas por lo general se solicita una vez que usted es dueño y vive en la casa, y conviene hacerlo lo antes posible.",
+      "Con gusto le indicamos los pasos para que sea sencillo. Ayudarle a ahorrar dinero es parte de ser su prestamista de por vida, así que escríbanos con cualquier duda."
+    ],
+    "cta_es": "Pregúntenos cómo"
+  },
+  "E4": {
+    "subject_en": "A friendly reminder for new homeowners",
+    "preheader_en": "Do not forget to update your driver's license address.",
+    "eyebrow_en": "NEW ADDRESS CHECKLIST",
+    "headline_en": "One quick thing on your list",
+    "body_en": [
+      "Welcome home. Once you are settled, do not forget to update the address on your driver's license. In Texas you are generally expected to do this within 30 days of moving.",
+      "It is a small task that is easy to forget in the middle of unpacking, so consider this your friendly nudge. You can usually take care of it online through your state's DMV.",
+      "While you are at it, it is a good moment to update your address with your bank, your employer, and any subscriptions. If we can help with anything, we are one message away."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Un recordatorio amable para nuevos propietarios",
+    "preheader_es": "No olvide actualizar la dirección de su licencia de conducir.",
+    "eyebrow_es": "LISTA DE NUEVA DIRECCIÓN",
+    "headline_es": "Una cosita rápida para su lista",
+    "body_es": [
+      "Bienvenido a casa. Cuando ya esté instalado, no olvide actualizar la dirección de su licencia de conducir. En Texas por lo general se debe hacer dentro de los 30 días de haberse mudado.",
+      "Es una tarea pequeña que es fácil olvidar entre las cajas, así que tome esto como un recordatorio amable. Normalmente lo puede hacer en línea en el sitio del DMV de su estado.",
+      "Ya que está en eso, es buen momento para actualizar su dirección con su banco, su trabajo y sus suscripciones. Si podemos ayudarle en algo, estamos a un mensaje de distancia."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "F1": {
+    "subject_en": "It may be time to protest your property taxes",
+    "preheader_en": "You may be able to lower your property tax bill. We will show you how.",
+    "eyebrow_en": "SAVE MONEY",
+    "headline_en": "You may be paying more tax than you need to",
+    "body_en": [
+      "Every year, homeowners have the right to protest the value the county places on their home. If that value is too high, your property tax bill is too high, and protesting may lower it.",
+      "In many Texas counties the deadline lands around May 15, so early in the year is the time to act. You can protest on your own, and there are services that will handle it for you for a share of the savings.",
+      "We keep an eye on this for our clients because saving you money is part of being your lender for life. If you want a quick rundown of your options, just reply and ask."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Quizá sea momento de protestar sus impuestos",
+    "preheader_es": "Tal vez pueda bajar su factura de impuestos de propiedad. Le mostramos cómo.",
+    "eyebrow_es": "AHORRE DINERO",
+    "headline_es": "Quizá esté pagando más impuestos de lo necesario",
+    "body_es": [
+      "Cada año, los propietarios tienen el derecho de protestar el valor que el condado le asigna a su casa. Si ese valor es muy alto, su factura de impuestos también lo es, y protestar podría bajarla.",
+      "En muchos condados de Texas la fecha límite es alrededor del 15 de mayo, así que a principios del año es el momento de actuar. Puede protestar usted mismo, y también hay servicios que lo hacen por usted a cambio de una parte del ahorro.",
+      "Estamos pendientes de esto por nuestros clientes, porque ahorrarle dinero es parte de ser su prestamista de por vida. Si quiere un resumen rápido de sus opciones, solo responda y pregunte."
+    ],
+    "cta_es": "Hablar con un asesor"
+  },
+  "F2": {
+    "subject_en": "Time to re-shop your home insurance",
+    "preheader_en": "Your policy renews around now. Re-shopping it could save you money.",
+    "eyebrow_en": "SAVE MONEY",
+    "headline_en": "Do not auto-renew without a quick look",
+    "body_en": [
+      "Around your home anniversary, your homeowners insurance usually comes up for renewal. Many people let it auto-renew, and the premium quietly climbs year after year.",
+      "It is worth getting a few fresh quotes before you renew. The same coverage can often be found for less, and even a small drop adds up over the life of your loan.",
+      "If you would like, we can point you to trusted insurance partners to compare. Helping you keep more of your money is part of being here for you for life."
+    ],
+    "cta_en": "Talk to an advisor",
+    "subject_es": "Hora de volver a cotizar su seguro de casa",
+    "preheader_es": "Su póliza se renueva por estas fechas. Volver a cotizar podría ahorrarle dinero.",
+    "eyebrow_es": "AHORRE DINERO",
+    "headline_es": "No renueve en automático sin revisar",
+    "body_es": [
+      "Cerca de su aniversario en la casa, su seguro de propietario suele entrar en renovación. Muchas personas dejan que se renueve solo, y la prima va subiendo año con año sin que se note.",
+      "Vale la pena pedir algunas cotizaciones nuevas antes de renovar. La misma cobertura muchas veces se consigue por menos, y hasta una pequeña baja se acumula durante la vida de su préstamo.",
+      "Si gusta, le podemos recomendar socios de seguros de confianza para comparar. Ayudarle a quedarse con más de su dinero es parte de estar aquí para usted de por vida."
+    ],
+    "cta_es": "Hablar con un asesor"
+  }
+}
